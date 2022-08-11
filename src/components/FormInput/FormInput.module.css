@@ -1,0 +1,16 @@
+.form_input_div input
+{
+    display: block;
+    width: 100%;
+    height: 30px;
+    margin-bottom: 10px
+}
+
+.form_input_div label
+{
+    display: block;
+    margin-bottom : 3px;
+    font-weight: 600;
+    font-size: 18px;
+}
+

@@ -1,0 +1,16 @@
+.button
+{
+    width: 120px;
+    padding: 10px 0;
+    background-color: purple;
+    color: white;
+    font-weight: 500;
+    border: none;
+    transition: 0.3s;
+    cursor: pointer;
+}
+
+.button:hover
+{
+    background-color: rgb(163, 17, 163);
+}
